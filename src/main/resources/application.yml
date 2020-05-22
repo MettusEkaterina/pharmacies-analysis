@@ -1,0 +1,5 @@
+elastic:
+  port: 9300
+  medicinesIndex: test_medicines5
+  productsIndex: test_products5
+  pharmaciesIndex: test_pharmacies5
